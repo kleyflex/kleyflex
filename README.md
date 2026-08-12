@@ -46,7 +46,7 @@ Realtime multiplayer word game for 2-6 teams. Configurable board size, card bala
 
 Turn-timer race conditions handled with transactions; database access is deny-by-default.
 
-`Next.js 16` `React 19` `TypeScript` `Firebase`
+`Next.js` `React` `TypeScript` `Firebase`
 
 [**▶ Play**](https://one-connection-game.vercel.app) · [Repository](https://github.com/kleyflex/one-connection-game)
 
