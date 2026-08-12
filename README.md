@@ -69,7 +69,7 @@ Built both the frontend and the backend myself.
 
 ---
 
-### GitHub
+### GitHub languages
 
 <div align="center">
 
