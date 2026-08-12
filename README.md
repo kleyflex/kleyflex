@@ -40,7 +40,7 @@ For the past two years I've been building internal systems for a college - admis
 <tr>
 <td width="50%" valign="top">
 
-#### 🎮 O.N.E.
+#### O.N.E.
 
 Realtime multiplayer word game for 2-6 teams. Configurable board size, card balance auto-adjusted to the number of teams, turn timer, 12 themed word sets, two languages.
 
@@ -53,7 +53,7 @@ Turn-timer race conditions handled with transactions; database access is deny-by
 </td>
 <td width="50%" valign="top">
 
-#### 🍣 Bar2917
+#### Bar2917
 
 Sushi delivery platform, running in production for over a year. Category catalog, cart, pickup location selection, admin panel for managing products.
 
@@ -61,7 +61,7 @@ Built both the frontend and the backend myself.
 
 `Next.js` `TypeScript` `NestJS` `PostgreSQL`
 
-[**🌐 bar2917.ru**](https://bar2917.ru) · [Frontend](https://github.com/kleyflex/bar2917-shop) · [Backend](https://github.com/kleyflex/bar2917-back-end)
+[**Website**](https://bar2917.ru) · [Frontend](https://github.com/kleyflex/bar2917-shop) · [Backend](https://github.com/kleyflex/bar2917-back-end)
 
 </td>
 </tr>
