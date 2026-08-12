@@ -73,7 +73,7 @@ Built both the frontend and the backend myself.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyflex&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kleyflex&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" height="150"/>
 
 </div>
 
