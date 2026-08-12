@@ -12,7 +12,7 @@
 
 Frontend developer with 2+ year of experience building production web applications and internal management systems.
 
-For the past two years I've been building internal systems for a college — admissions campaign tooling, educational programme records, document workflow. I gather the requirements myself, from the people who end up using the thing, and rework what turns out to be inconvenient. Alongside that I take on commercial freelance projects.
+For the past two years I've been building internal systems for a college - admissions campaign tooling, educational programme records, document workflow. I gather the requirements myself, from the people who end up using the thing, and rework what turns out to be inconvenient. Alongside that I take on commercial freelance projects.
 
 ---
 
@@ -42,7 +42,7 @@ For the past two years I've been building internal systems for a college — adm
 
 #### 🎮 O.N.E.
 
-Realtime multiplayer word game for 2–6 teams. Configurable board size, card balance auto-adjusted to the number of teams, turn timer, 12 themed word sets, two languages.
+Realtime multiplayer word game for 2-6 teams. Configurable board size, card balance auto-adjusted to the number of teams, turn timer, 12 themed word sets, two languages.
 
 Turn-timer race conditions handled with transactions; database access is deny-by-default.
 
